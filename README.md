@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jakub-Trcka
 - 👀 I’m interested in a lot of things
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python API
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
